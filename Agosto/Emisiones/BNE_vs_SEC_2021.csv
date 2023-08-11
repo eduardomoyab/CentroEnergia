@@ -1,0 +1,824 @@
+Sector,Subsector,Energético,Unidad,SEC Tcal,BNE Tcal,Dif %,Emisiones SEC CO2eq (Millt),Emisiones SEC CO2 ajustadas con PCI (Millt),Emisiones BNE CO2eq (Millt),Emisiones BNE CO2 BNE ajustadas con PCI (Millt)
+Carbón y Leña,Carbón y Leña,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Diésel,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Gas Licuado,Mil ton,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Electricidad,Gwh,,0.0,,,,,
+Carbón y Leña,Carbón y Leña,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Carbón y Leña,Carbón y Leña,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Diésel,Mil m3,,154.6432285,,,,0.04570348927855546,0.04554748453395738
+Electricidad,Electricidad,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Gas Licuado,Mil ton,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Electricidad,Gwh,,1843.121963,,,,,
+Electricidad,Electricidad,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Electricidad,Electricidad,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Diésel,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Gas Licuado,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Electricidad,Gwh,,0.0,,,,,
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Gas Coque,Mil m3,,148.174,,,,0.06305121074483296,0.0630189356264
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Gas Altos Hornos,Mil m3,,289.76,,,,0.2837510599500288,0.28369126656
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Siderurgia Hornos de Coque,Siderurgia Hornos de Coque,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Diésel,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Petróleo Combustible,Mil ton,,57.292767,,,,0.01768388945329277,0.017626092267021838
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Gas Licuado,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Electricidad,Gwh,,0.0,,,,,
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Gas Coque,Mil m3,,141.563,,,,0.06023808864355951,0.060207253526799995
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Alquitrán,Mil m3,,145.48,,,,0.04666509005279999,0.04666509005279999
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Gas Altos Hornos,Mil m3,,273.977,,,,0.26829536220295774,0.268238825712
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Siderurgia Altos Hornos,Siderurgia Altos Hornos,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Diésel,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Gas Licuado,Mil ton,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Electricidad,Gwh,,3.982161042,,,,,
+Plantas de Gas,Plantas de Gas,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Plantas de Gas,Plantas de Gas,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Gas Natural,Millones m3,,3214.884318,,,,0.6798082336266457,0.6791448265589909
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Diésel,Mil m3,,27.59713112,,,,0.008156097091970694,0.008128256989085002
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Gas Licuado,Mil ton,,27.1365611,,,,0.0064535006773813,0.006447900915571897
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Nafta,Mil m3,,99.48674426,,,,0.029086108131937984,0.0289857454825047
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Gas de Refinería,Mil m3,,1.40691332,,,,0.0003224171186144792,0.0003221106661057536
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,D.i. de Petróleo,Mil ton,,2366.560324,,,,0.0023873960890669734,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Electricidad,Gwh,,496.208304,,,,,
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Refinería y Extracción Petr-gn,Refinería y Extracción Petr-gn,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Gas Natural,Millones m3,,1132.6,,,,0.23949564875308796,0.23926193121599998
+Producción de Metanol,Producción de Metanol,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Diésel,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Gas Licuado,Mil ton,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Electricidad,Gwh,,50.51296,,,,,
+Producción de Metanol,Producción de Metanol,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Producción de Metanol,Producción de Metanol,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Cobre,Cobre,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Gas Natural,Millones m3,,1527.476239,,,,0.32299480206094994,0.32267959988494826
+Cobre,Cobre,Carbón,Mil ton,,18.62892192,,,,0.007463268505928911,0.007004774194984473
+Cobre,Cobre,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Cobre,Cobre,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Cobre,Cobre,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Cobre,Cobre,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Cobre,Cobre,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Cobre,Cobre,Diésel,Mil m3,,18444.15051,,,,5.451011617271353,5.432405080033667
+Cobre,Cobre,Petróleo Combustible,Mil ton,,585.4872555,,,,0.1807155151465067,0.18012487312069234
+Cobre,Cobre,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Kerosene,Mil m3,,121.7012769,,,,0.03490355189100056,0.034780779126850424
+Cobre,Cobre,Gas Licuado,Mil ton,,60.76719668,,,,0.014451394319707765,0.014438854712128926
+Cobre,Cobre,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Kerosene de Aviación,Mil m3,,0.063988947,,,,1.8340311434982316e-05,1.8185543557295402e-05
+Cobre,Cobre,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Coque de Petróleo,Mil ton,,12.330787,,,,0.004791149536549137,0.004778710186341
+Cobre,Cobre,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Cobre,Cobre,Electricidad,Gwh,,22732.21623,,,,,
+Cobre,Cobre,Coque Mineral,Mil ton,,0.189,,,,8.09059927284e-05,8.03823804e-05
+Cobre,Cobre,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Cobre,Cobre,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Salitre,Salitre,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Gas Natural,Millones m3,,709.2273563,,,,0.14997074502075403,0.14982439249475202
+Salitre,Salitre,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Salitre,Salitre,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Salitre,Salitre,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Salitre,Salitre,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Salitre,Salitre,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Salitre,Salitre,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Salitre,Salitre,Diésel,Mil m3,,675.8592154,,,,0.19974443565659786,0.19906262601445926
+Salitre,Salitre,Petróleo Combustible,Mil ton,,5.10662555,,,,0.0015762024847841686,0.0015710508992772363
+Salitre,Salitre,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Gas Licuado,Mil ton,,55.406868,,,,0.013176623922681797,0.013165190445084482
+Salitre,Salitre,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Kerosene de Aviación,Mil m3,,97.327575,,,,0.027895724502414437,0.027660321625365
+Salitre,Salitre,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Salitre,Salitre,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Salitre,Salitre,Electricidad,Gwh,,214.7757129,,,,,
+Salitre,Salitre,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Salitre,Salitre,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Salitre,Salitre,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Hierro,Hierro,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Carbón,Mil ton,,74.865,,,,0.029993018334384003,0.0281504438292
+Hierro,Hierro,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Hierro,Hierro,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Hierro,Hierro,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Hierro,Hierro,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Hierro,Hierro,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Hierro,Hierro,Diésel,Mil m3,,589.251987,,,,0.1741484068293492,0.17355396692643518
+Hierro,Hierro,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Hierro,Hierro,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Gas Licuado,Mil ton,,0.0,,,,0.0,0.0
+Hierro,Hierro,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Hierro,Hierro,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Hierro,Hierro,Electricidad,Gwh,,563.41954,,,,,
+Hierro,Hierro,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Hierro,Hierro,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Hierro,Hierro,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Gas Natural,Millones m3,,1315.393223,,,,0.2781484666323507,0.2778770288216657
+Papel y Celulosa,Papel y Celulosa,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Biomasa,Mil ton,,9641.140266,,,,0.33309138483024775,0.0
+Papel y Celulosa,Papel y Celulosa,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Diésel,Mil m3,,206.4035691,,,,0.061000817164247385,0.06079259636858818
+Papel y Celulosa,Papel y Celulosa,Petróleo Combustible,Mil ton,,2249.163105,,,,0.6942229149317353,0.6919539496549596
+Papel y Celulosa,Papel y Celulosa,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Gas Licuado,Mil ton,,135.3485602,,,,0.03218801460194171,0.03216008476604347
+Papel y Celulosa,Papel y Celulosa,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Electricidad,Gwh,,4799.42757,,,,,
+Papel y Celulosa,Papel y Celulosa,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Papel y Celulosa,Papel y Celulosa,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Gas Natural,Millones m3,,204.6798864,,,,0.04328089544417832,0.04323865875078183
+Siderurgia,Siderurgia,Carbón,Mil ton,,16.03058367,,,,0.00642230134141704,0.006027757231705413
+Siderurgia,Siderurgia,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Diésel,Mil m3,,90.80591184,,,,0.026836913962960188,0.02674530857407893
+Siderurgia,Siderurgia,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Kerosene,Mil m3,,0.1411587,,,,4.048388098971688e-05,4.0341479494643994e-05
+Siderurgia,Siderurgia,Gas Licuado,Mil ton,,15.38919081,,,,0.0036597914139048773,0.0036566157792819825
+Siderurgia,Siderurgia,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Coque de Petróleo,Mil ton,,37.5817467,,,,0.014602455486775663,0.014564542861358097
+Siderurgia,Siderurgia,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Electricidad,Gwh,,600.1973791,,,,,
+Siderurgia,Siderurgia,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Gas Coque,Mil m3,,588.641,,,,0.2507133266498046,0.2503511364076
+Siderurgia,Siderurgia,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Gas Altos Hornos,Mil m3,,69.59,,,,0.0681468672760992,0.06813250704
+Siderurgia,Siderurgia,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Siderurgia,Siderurgia,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Gas Natural,Millones m3,,21.62318199,,,,0.0045723627042213826,0.004567900655096618
+Petroquímica,Petroquímica,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Diésel,Mil m3,,0.009156,,,,2.70597782970144e-06,2.69674121808e-06
+Petroquímica,Petroquímica,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Gas Licuado,Mil ton,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Electricidad,Gwh,,28.875016,,,,,
+Petroquímica,Petroquímica,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Petroquímica,Petroquímica,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Cemento,Cemento,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Gas Natural,Millones m3,,120.7664176,,,,0.025536845780238692,0.025511925040626816
+Cemento,Cemento,Carbón,Mil ton,,122.871,,,,0.0492255680994336,0.04620147176568
+Cemento,Cemento,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Cemento,Cemento,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Cemento,Cemento,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Cemento,Cemento,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Cemento,Cemento,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Cemento,Cemento,Diésel,Mil m3,,60.3182385,,,,0.017826541733032317,0.017765692438284183
+Cemento,Cemento,Petróleo Combustible,Mil ton,,4.9244244,,,,0.0015199645831505675,0.001514996802936288
+Cemento,Cemento,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Gas Licuado,Mil ton,,11.15369709,,,,0.0026525244470133255,0.002650222827188762
+Cemento,Cemento,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Coque de Petróleo,Mil ton,,1805.990603,,,,0.7017209072361354,0.6998990162584289
+Cemento,Cemento,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Cemento,Cemento,Electricidad,Gwh,,498.3245109,,,,,
+Cemento,Cemento,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Cemento,Cemento,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Cemento,Cemento,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Gas Natural,Millones m3,,10.11250121,,,,0.002138354262586383,0.0021362674986126935
+Azúcar,Azúcar,Carbón,Mil ton,,370.41312,,,,0.14839788284854577,0.13928128936296957
+Azúcar,Azúcar,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Diésel,Mil m3,,1.907951086,,,,0.0005638786958137599,0.0005619539466684905
+Azúcar,Azúcar,Petróleo Combustible,Mil ton,,6.0383715,,,,0.001863793628328575,0.00185770209355668
+Azúcar,Azúcar,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Gas Licuado,Mil ton,,1.007972955,,,,0.00023971180887303106,0.0002395038087348588
+Azúcar,Azúcar,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Electricidad,Gwh,,1.50651102,,,,,
+Azúcar,Azúcar,Coque Mineral,Mil ton,,19.40211,,,,0.008305539526855114,0.008251787230595999
+Azúcar,Azúcar,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Azúcar,Azúcar,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Pesca,Pesca,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Gas Natural,Millones m3,,35.06075,,,,0.0074138240040789605,0.00740658904722
+Pesca,Pesca,Carbón,Mil ton,,7.623,,,,0.0030539875611168,0.00286637057784
+Pesca,Pesca,Biomasa,Mil ton,,0.217777,,,,7.5239692103632e-06,0.0
+Pesca,Pesca,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Pesca,Pesca,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Pesca,Pesca,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Pesca,Pesca,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Pesca,Pesca,Diésel,Mil m3,,1540.350672,,,,0.45523752385296146,0.453683611563961
+Pesca,Pesca,Petróleo Combustible,Mil ton,,720.1724775,,,,0.2222872300689191,0.22156071702008578
+Pesca,Pesca,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Kerosene,Mil m3,,0.404595,,,,0.0001160366015628828,0.0001156284444114
+Pesca,Pesca,Gas Licuado,Mil ton,,43.14031542,,,,0.010259444951755988,0.010250542737144331
+Pesca,Pesca,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Pesca,Pesca,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Pesca,Pesca,Electricidad,Gwh,,119.8033051,,,,,
+Pesca,Pesca,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Pesca,Pesca,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Pesca,Pesca,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Gas Natural,Millones m3,,194.8282004,,,,0.04119769225692623,0.04115748850701207
+Agroindustria,Agroindustria,Carbón,Mil ton,,73.947642,,,,0.029625498995397903,0.027805502470083357
+Agroindustria,Agroindustria,Biomasa,Mil ton,,82.927375,,,,0.0028650546944638,0.0
+Agroindustria,Agroindustria,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Biogás,Millones m3,,40.4368776,,,,0.008337464461118355,0.008313893203464576
+Agroindustria,Agroindustria,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Diésel,Mil m3,,728.8821984,,,,0.21541492675125015,0.2146796272990437
+Agroindustria,Agroindustria,Petróleo Combustible,Mil ton,,113.035692,,,,0.03488940727202877,0.03477537638666784
+Agroindustria,Agroindustria,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Kerosene,Mil m3,,0.0314685,,,,9.025069010446442e-06,8.993323454220002e-06
+Agroindustria,Agroindustria,Gas Licuado,Mil ton,,448.7717458,,,,0.10672497354537265,0.1066323673056207
+Agroindustria,Agroindustria,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Kerosene de Aviación,Mil m3,,0.638361,,,,0.0001829650290689538,0.0001814210471502
+Agroindustria,Agroindustria,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Electricidad,Gwh,,1996.946744,,,,,
+Agroindustria,Agroindustria,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Agroindustria,Agroindustria,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Construcción,Construcción,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Gas Natural,Millones m3,,509.8286571,,,,0.10780659101631655,0.10770138538496013
+Construcción,Construcción,Carbón,Mil ton,,0.161,,,,6.45011146976e-05,6.0538588879999995e-05
+Construcción,Construcción,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Construcción,Construcción,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Construcción,Construcción,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Construcción,Construcción,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Construcción,Construcción,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Construcción,Construcción,Diésel,Mil m3,,1899.333373,,,,0.5613318041229854,0.5594157485631296
+Construcción,Construcción,Petróleo Combustible,Mil ton,,39.024741,,,,0.01204531116096002,0.012005942836774319
+Construcción,Construcción,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Kerosene,Mil m3,,1.638232128,,,,0.0004698399355015499,0.0004681872799847193
+Construcción,Construcción,Gas Licuado,Mil ton,,20.0397397,,,,0.0047657650227646165,0.004761629724683592
+Construcción,Construcción,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Kerosene de Aviación,Mil m3,,4.04595,,,,0.0011596375081835099,0.00114985170729
+Construcción,Construcción,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Construcción,Construcción,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Construcción,Construcción,Electricidad,Gwh,,19.48405766,,,,,
+Construcción,Construcción,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Construcción,Construcción,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Construcción,Construcción,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Gas Natural,Millones m3,,4493.907365,,,,0.9502659895964644,0.9493386498814286
+Industrias Varias,Industrias Varias,Carbón,Mil ton,,969.38597,,,,0.3883632027156164,0.36450471244639765
+Industrias Varias,Industrias Varias,Biomasa,Mil ton,,3328.661701,,,,0.11500180528723969,0.0
+Industrias Varias,Industrias Varias,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Biogás,Millones m3,,10.6115744,,,,0.0021879440176289316,0.0021817583730109444
+Industrias Varias,Industrias Varias,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Diésel,Mil m3,,3690.8217,,,,1.0907909232831998,1.087067606703156
+Industrias Varias,Industrias Varias,Petróleo Combustible,Mil ton,,411.1901364,,,,0.12691725844524102,0.12650244809219452
+Industrias Varias,Industrias Varias,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Kerosene,Mil m3,,28.58973107,,,,0.008199446935724762,0.008170605493800887
+Industrias Varias,Industrias Varias,Gas Licuado,Mil ton,,2410.829345,,,,0.5733331041348573,0.5728356177346693
+Industrias Varias,Industrias Varias,Gasolina Aviación,Mil m3,,0.519881053,,,,0.00014517408287307006,0.000144649624662508
+Industrias Varias,Industrias Varias,Kerosene de Aviación,Mil m3,,297.3285168,,,,0.08521936759817864,0.08450022928322976
+Industrias Varias,Industrias Varias,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Coque de Petróleo,Mil ton,,89.21060809,,,,0.03466294273071704,0.034572946691022864
+Industrias Varias,Industrias Varias,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Electricidad,Gwh,,8093.288349,,,,,
+Industrias Varias,Industrias Varias,Coque Mineral,Mil ton,,9.410037,,,,0.004028192513735317,0.0040021226122332
+Industrias Varias,Industrias Varias,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Industrias Varias,Industrias Varias,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Gas Natural,Millones m3,,326.8486076,,,,0.06911426745647667,0.06904682065127721
+Minas Varias,Minas Varias,Carbón,Mil ton,,8.577156,,,,0.0034362492107776893,0.00322514857666848
+Minas Varias,Minas Varias,Biomasa,Mil ton,,7.2503305,,,,0.00025049139003180875,0.0
+Minas Varias,Minas Varias,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Diésel,Mil m3,,4123.440468,,,,1.218647716088,1.2144879718604942
+Minas Varias,Minas Varias,Petróleo Combustible,Mil ton,,349.8254683,,,,0.10797654282195127,0.10762363740627023
+Minas Varias,Minas Varias,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Gas Licuado,Mil ton,,14.17538898,,,,0.003371130263980774,0.0033682051032888527
+Minas Varias,Minas Varias,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Kerosene de Aviación,Mil m3,,182.463354,,,,0.0522970746468359,0.05185575677276281
+Minas Varias,Minas Varias,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Electricidad,Gwh,,938.6927517,,,,,
+Minas Varias,Minas Varias,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Minas Varias,Minas Varias,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Gas Natural,Millones m3,,86.50418002,,,,0.019314435877958704,0.018274021869893804
+Terrestre,Terrestre,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Diésel,Mil m3,48821.78635991999,50067.67564,0.024884104647443336,14.633851634978885,14.389234645996938,14.997258321309452,14.746566687619914
+Terrestre,Terrestre,Petróleo Combustible,Mil ton,4.834515,45.435978,0.8935972061611615,0.0014904352309185497,0.0014883315684690599,0.01399811434486433,0.013978356822430558
+Terrestre,Terrestre,Gasolina de Motor,Mil m3,39182.28499584,38677.6111,-0.013048217857487962,11.269066337253252,10.800125809673075,11.116479691717648,10.653888763999406
+Terrestre,Terrestre,Kerosene,Mil m3,11.282805900000001,75.88636219,0.8513197157645962,0.003253957367466333,0.003226649768245507,0.021870964532834547,0.021687420783919182
+Terrestre,Terrestre,Gas Licuado,Mil ton,,192.8318214,,,,0.04698742050521443,0.04581864567048831
+Terrestre,Terrestre,Gasolina Aviación,Mil m3,0.0,0.16758,1.0,0.0,0.0,4.67958442945392e-05,4.662678888e-05
+Terrestre,Terrestre,Kerosene de Aviación,Mil m3,1.222776,5.672988333,0.7844564578271626,0.00035070276366036215,0.00034774329797064,0.0016259741357244268,0.0016122530728596006
+Terrestre,Terrestre,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Electricidad,Gwh,,254.5752414,,,,,
+Terrestre,Terrestre,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Terrestre,Terrestre,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Diésel,Mil m3,,452.122575,,,,0.13542867655620627,0.133164873703251
+Ferroviario,Ferroviario,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Gas Licuado,Mil ton,,0.044256113,,,,1.0783907844461643e-05,1.051566668601768e-05
+Ferroviario,Ferroviario,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Electricidad,Gwh,,401.5697809,,,,,
+Ferroviario,Ferroviario,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Ferroviario,Ferroviario,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Diésel,Mil m3,,2208.725362,,,,0.6616010108581453,0.6505418002538301
+Marítimo,Marítimo,Petróleo Combustible,Mil ton,1911.8905833300303,1992.601832,0.04050545742445638,0.5894177767690233,0.5885858479348621,0.6138894663634653,0.6130229971659207
+Marítimo,Marítimo,Gasolina de Motor,Mil m3,,5.170107908,,,,0.0014859604284937547,0.0014241250424513851
+Marítimo,Marítimo,Kerosene,Mil m3,0.0,0.0,,0.0,0.0,0.0,0.0
+Marítimo,Marítimo,Gas Licuado,Mil ton,,0.292799793,,,,7.134666310594077e-05,6.95719714228625e-05
+Marítimo,Marítimo,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Kerosene de Aviación,Mil m3,,0.081071847,,,,2.3236558691757136e-05,2.3040472988075403e-05
+Marítimo,Marítimo,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Electricidad,Gwh,,6.504298694,,,,,
+Marítimo,Marítimo,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Marítimo,Marítimo,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Diésel,Mil m3,,5.608609432,,,,0.0016800013861206016,0.0016519187670802377
+Aéreo,Aéreo,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Gasolina de Motor,Mil m3,,0.320526181,,,,9.21236519116434e-05,8.829010327174884e-05
+Aéreo,Aéreo,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Gas Licuado,Mil ton,,1.445286315,,,,0.00035217359531374936,0.0003434135563239084
+Aéreo,Aéreo,Gasolina Aviación,Mil m3,0.0,30.34850468,1.0,0.0,0.0,0.008474662248343322,0.00844404654814448
+Aéreo,Aéreo,Kerosene de Aviación,Mil m3,9040.432433084037,8586.948139,-0.05281088073938782,2.592874442226004,2.5709940245485523,2.4611641623873224,2.4403952045971495
+Aéreo,Aéreo,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Electricidad,Gwh,,0.0,,,,,
+Aéreo,Aéreo,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Aéreo,Aéreo,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Biomasa,Mil ton,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Diésel,Mil m3,,0.007984032,,,,2.391534833982578e-06,2.35155834216576e-06
+Transporte por Ducto,Transporte por Ducto,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Gas Licuado,Mil ton,,1.1509278,,,,0.0002804471176858433,0.000273471217964208
+Transporte por Ducto,Transporte por Ducto,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Electricidad,Gwh,,407.2026177,,,,,
+Transporte por Ducto,Transporte por Ducto,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Transporte por Ducto,Transporte por Ducto,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Comercial,Comercial,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Gas Natural,Millones m3,1199.7913747246214,1493.67013,0.19674943575083648,0.25432558106246256,0.2536257367834238,0.31640873649430934,0.31553805394972084
+Comercial,Comercial,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Comercial,Comercial,Biomasa,Mil ton,,66.58959043,,,,0.0023006012027257973,0.0
+Comercial,Comercial,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Comercial,Comercial,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Comercial,Comercial,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Comercial,Comercial,Biogás,Millones m3,,14.4972912,,,,0.0029891192727126855,0.0029806685859525123
+Comercial,Comercial,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Comercial,Comercial,Diésel,Mil m3,,3655.226448,,,,1.0828135886401875,1.0765836417363206
+Comercial,Comercial,Petróleo Combustible,Mil ton,,36.021678,,,,0.011143447086792893,0.011082051946294559
+Comercial,Comercial,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Kerosene,Mil m3,,5.077811106,,,,0.001456300607072513,0.001451178089698861
+Comercial,Comercial,Gas Licuado,Mil ton,4866.629558999997,2214.736876,-1.1973849858812742,1.1599693166086207,1.1571305873705073,0.5275332147550645,0.5262422116747594
+Comercial,Comercial,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Kerosene de Aviación,Mil m3,,1.258757985,,,,0.00036078126846142335,0.0003577367535726269
+Comercial,Comercial,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Comercial,Comercial,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Comercial,Comercial,Electricidad,Gwh,,7916.395465,,,,,
+Comercial,Comercial,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Comercial,Comercial,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Comercial,Comercial,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Público,Público,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Público,Público,Gas Natural,Millones m3,62.623614699409984,189.0569166,0.6687578755348749,0.01327463051675527,0.013238101850685996,0.04004850797070972,0.03993830388085666
+Público,Público,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Público,Público,Biomasa,Mil ton,,78.47763837,,,,0.0027113209145038166,0.0
+Público,Público,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Público,Público,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Público,Público,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Público,Público,Biogás,Millones m3,,0.0,,,,0.0,0.0
+Público,Público,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Público,Público,Diésel,Mil m3,,287.2706837,,,,0.08510022685421245,0.08461060435559331
+Público,Público,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Público,Público,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Público,Público,Kerosene,Mil m3,,0.009963018,,,,2.8573629185477566e-06,2.8473121837461603e-06
+Público,Público,Gas Licuado,Mil ton,260.0574955,350.120315,0.25723391543275625,0.061985140162603584,0.06183344733143234,0.08339595431155221,0.08319186397014841
+Público,Público,Gasolina Aviación,Mil m3,,6.55867422,,,,0.0018360378468385244,0.00182485928027592
+Público,Público,Kerosene de Aviación,Mil m3,,7.775983233,,,,0.002228727942755811,0.0022099204380487806
+Público,Público,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Público,Público,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Público,Público,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Público,Público,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Público,Público,Electricidad,Gwh,,1962.716785,,,,,
+Público,Público,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Público,Público,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Público,Público,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Público,Público,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Público,Público,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Público,Público,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Gas Natural,Millones m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Biomasa,Mil ton,,0.0554715,,,,1.9164827233944e-06,0.0
+Sanitarias,Sanitarias,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Biogás,Millones m3,,52.7540888,,,,0.010877084647818648,0.010846333504476287
+Sanitarias,Sanitarias,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Diésel,Mil m3,,53.45279209,,,,0.015834698738700612,0.0157435941077505
+Sanitarias,Sanitarias,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Gas Licuado,Mil ton,,3.047655738,,,,0.0007259280532853052,0.0007241515294065077
+Sanitarias,Sanitarias,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Electricidad,Gwh,,1064.512251,,,,,
+Sanitarias,Sanitarias,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Sanitarias,Sanitarias,Metanol,Mil ton,,0.0,,,,0.0,0.0
+Residencial,Residencial,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Gas Natural,Millones m3,5744.5666948835915,5825.398653,0.013875781372452744,1.2177035886457086,1.2143527543076191,1.2340121090668004,1.2306163975100346
+Residencial,Residencial,Carbón,Mil ton,,0.0,,,,0.0,0.0
+Residencial,Residencial,Biomasa,Mil ton,,18157.44463,,,,0.6273208572759962,0.0
+Residencial,Residencial,Energía Hídrica,Gwh,,0.0,,,,0.0,0.0
+Residencial,Residencial,Energía Eólica,Gwh,,0.0,,,,0.0,0.0
+Residencial,Residencial,Energía Solar,Gwh,,0.0,,,,0.0,0.0
+Residencial,Residencial,Biogás,Millones m3,,13.0327512,,,,0.0026871535689639305,0.0026795565843621126
+Residencial,Residencial,Geotermia,Gwh,,0.0,,,,0.0,0.0
+Residencial,Residencial,Diésel,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Petróleo Combustible,Mil ton,,0.0,,,,0.0,0.0
+Residencial,Residencial,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Kerosene,Mil m3,1383.4084867200002,1373.418435,-0.007273858763953544,0.39702281531566475,0.39562629301847296,0.3938921828525144,0.3925066725119923
+Residencial,Residencial,Gas Licuado,Mil ton,8399.366129,11429.55945,0.26511899555323637,2.0020030023825637,1.9971036103242719,2.7224327662717025,2.7157703059964526
+Residencial,Residencial,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Coque de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Residencial,Residencial,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Residencial,Residencial,Electricidad,Gwh,,12865.4654,,,,,
+Residencial,Residencial,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Residencial,Residencial,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Residencial,Residencial,Metanol,Mil ton,,0.0,,,,0.0,0.0
+"Todos, Im","Todos, Im",Gas Natural,Millones m3,6496.0064777752905,,,1.3745421409285536,1.3732007612188426,,
+"Todos, Im","Todos, Im",Gas Licuado,Mil ton,3292.7714632999987,,,0.7835968443756431,0.7829169101968985,,
+Sector Industrial y Minero,Sector Industrial y Minero,Diésel,Mil m3,38925.733159053125,,,11.511867727590651,11.472573003860829,,
+Marítimo y Aéreo,Marítimo y Aéreo,Diésel,Mil m3,2713.4872574395454,,,0.8133411925167651,0.7997455186988841,,
+Marítimo y Aéreo,Marítimo y Aéreo,Gasolina de Motor,Mil m3,0.0,,,0.0,0.0,,
+Sector Industrial y Minero,Sector Industrial y Minero,Gasolina de Motor,Mil m3,877.1072172799999,,,0.24264948148209173,0.2417640598602658,,
+Sector Industrial y Minero,Sector Industrial y Minero,Petróleo Combustible,Mil ton,5571.914565,,,1.720968742143747,1.715344009461559,,
+Sector Industrial y Minero,Sector Industrial y Minero,Kerosene,Mil m3,133.33248404999998,,,0.03826493671154999,0.038130340322483976,,
+"Todos, T","Todos, T",Gas Natural,Millones m3,10.175347461,,,0.00227344641371063,0.0021509822884131,,
+"Todos, Cp","Todos, Cp",Gas Natural,Millones m3,1074.60192785273,,,0.2273836455690397,0.22716174781894205,,
+"Todos, Cp","Todos, Cp",Diésel,Mil m3,0.0,,,0.0,0.0,,
+"Todos, Cp","Todos, Cp",Kerosene,Mil m3,0.0,,,0.0,0.0,,
+"Todos, Cp","Todos, Cp",Kerosene de Aviación,Mil m3,0.0,,,0.0,0.0,,
+Electricidad Servicio Público,Electricidad Servicio Público,Petróleo Crudo,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Gas Natural,Millones m3,24209.04139710863,30838.03307,0.21496155924873875,5.12258534619041,5.1175863491862135,6.520902998736387,6.514539420122792
+Electricidad Servicio Público,Electricidad Servicio Público,Carbón,Mil ton,68114.91501350523,63485.82121,-0.07291539615110275,25.62944349766572,25.62944349766572,23.871689626965054,23.871689626965054
+Electricidad Servicio Público,Electricidad Servicio Público,Biomasa,Mil ton,,5604.911849,,,,0.193643884242486,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Energía Hídrica,Gwh,,15398.03431,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Energía Eólica,Gwh,,6559.955994,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Energía Solar,Gwh,,9035.658511,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Biogás,Millones m3,,420.7923542,,,,0.08651564861806339,0.08651564861806339
+Electricidad Servicio Público,Electricidad Servicio Público,Geotermia,Gwh,,2786.4,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Diésel,Mil m3,4272.876102180355,4122.174651,-0.036558725415429885,1.263657239381844,1.25934385920013,1.2182736146530442,1.2141151473870948
+Electricidad Servicio Público,Electricidad Servicio Público,Petróleo Combustible,Mil ton,,28.256781,,,,0.008721690671876673,0.008693185111395121
+Electricidad Servicio Público,Electricidad Servicio Público,Gasolina de Motor,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Kerosene,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Gas Licuado,Mil ton,,14.714205,,,,0.003499269180965871,0.0034962328329588006
+Electricidad Servicio Público,Electricidad Servicio Público,Gasolina Aviación,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Kerosene de Aviación,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Nafta,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Gas de Refinería,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Coque de Petróleo,Mil ton,,1217.858893,,,,0.4732012701848791,0.471972688969899
+Electricidad Servicio Público,Electricidad Servicio Público,D.i. de Petróleo,Mil ton,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Electricidad,Gwh,,69289.81755,,,,,
+Electricidad Servicio Público,Electricidad Servicio Público,Coque Mineral,Mil ton,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Gas Coque,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Alquitrán,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Gas Altos Hornos,Mil m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Gas Corriente,Millones m3,,0.0,,,,0.0,0.0
+Electricidad Servicio Público,Electricidad Servicio Público,Metanol,Mil ton,,0.0,,,,0.0,0.0

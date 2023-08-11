@@ -1,0 +1,346 @@
+﻿Region,Sector,Subsector,Energético,Energia estimada
+I,Transporte,Terrestre,Diesel,166.43364000000003
+I,Transporte,Terrestre,Gasolina Aviacion,0.0
+I,Transporte,Terrestre,Gasolina Motor,78.20322
+I,Transporte,Terrestre,Kerosene,0.1
+I,Transporte,Terrestre,Kerosene Aviacion,0.0
+I,Transporte,Terrestre,Petróleo Combustible,0.0
+I,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,460.14459999999997
+I,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.40641000000000005
+I,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,0.30067
+I,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.0
+I,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,17.26609
+I,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,26.82021
+I,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,0.1
+I,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,9.588202
+I,Industrial y Minero,"Todos, IM",Gas Licuado,1.572543
+I,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,6.313544
+I,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,0.290694
+I,Transporte,Terrestre,Gas Licuado,0.235524
+II,Transporte,Terrestre,Diesel,389.51452
+II,Transporte,Terrestre,Gasolina Aviacion,0.0
+II,Transporte,Terrestre,Gasolina Motor,156.08473999999998
+II,Transporte,Terrestre,Kerosene,0.26579
+II,Transporte,Terrestre,Kerosene Aviacion,0.0
+II,Transporte,Terrestre,Petróleo Combustible,0.0
+II,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,1775.17322
+II,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.06439
+II,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,1.34075
+II,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.0
+II,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,41.80372
+II,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,51.428779999999996
+II,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,0.26579
+II,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,23.118911999999998
+II,Industrial y Minero,"Todos, IM",Gas Licuado,13.471627
+II,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,17.591746
+II,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,0.293061
+II,Transporte,Terrestre,Gas Licuado,0.784068
+II,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,0.793143
+II,Industrial y Minero,"Todos, IM",Gas Natural,0.0
+II,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,0.9198569999999999
+II,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,0.0
+II,Transporte,"Todos, T",Gas Natural,0.0
+II,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.0
+III,Transporte,Terrestre,Diesel,241.90351
+III,Transporte,Terrestre,Gasolina Aviacion,0.0
+III,Transporte,Terrestre,Gasolina Motor,97.48190000000001
+III,Transporte,Terrestre,Kerosene,0.21416
+III,Transporte,Terrestre,Kerosene Aviacion,0.0
+III,Transporte,Terrestre,Petróleo Combustible,0.0
+III,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,413.8983
+III,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.023850000000000003
+III,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,0.32588
+III,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.0
+III,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,0.10371000000000001
+III,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,48.62464
+III,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,0.21416
+III,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,8.147308
+III,Industrial y Minero,"Todos, IM",Gas Licuado,3.558769
+III,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,8.852558
+III,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,0.171741
+III,Transporte,Terrestre,Gas Licuado,0.30480999999999997
+IV,Transporte,Terrestre,Diesel,296.43235999999996
+IV,Transporte,Terrestre,Gasolina Aviacion,0.0
+IV,Transporte,Terrestre,Gasolina Motor,243.67072
+IV,Transporte,Terrestre,Kerosene,1.23493
+IV,Transporte,Terrestre,Kerosene Aviacion,0.0
+IV,Transporte,Terrestre,Petróleo Combustible,0.0
+IV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,232.21529999999998
+IV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.039990000000000005
+IV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,1.62222
+IV,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.15430000000000002
+IV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,0.52911
+IV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,2.0283
+IV,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,1.23493
+IV,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,21.49924
+IV,Industrial y Minero,"Todos, IM",Gas Licuado,5.299035
+IV,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,27.660131999999997
+IV,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,0.41404799999999997
+IV,Transporte,Terrestre,Gas Licuado,0.987193
+IV,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,0.29663825000000005
+IV,Industrial y Minero,"Todos, IM",Gas Natural,0.0
+IV,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,0.48721135000000004
+IV,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,0.0
+IV,Transporte,"Todos, T",Gas Natural,0.0
+IV,Energético: Consumo Propio,"Todos, CP",Gas Natural,5e-06
+V,Transporte,Terrestre,Diesel,471.27509
+V,Transporte,Terrestre,Gasolina Aviacion,0.0
+V,Transporte,Terrestre,Gasolina Motor,494.84589
+V,Transporte,Terrestre,Kerosene,8.99374
+V,Transporte,Terrestre,Kerosene Aviacion,0.0
+V,Transporte,Terrestre,Petróleo Combustible,0.0
+V,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,265.18998
+V,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.12981
+V,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,10.22652
+V,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.49101
+V,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,0.35971
+V,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,2.88552
+V,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,8.890540000000001
+V,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,43.292125999999996
+V,Industrial y Minero,"Todos, IM",Gas Licuado,16.924698000000003
+V,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,92.29174
+V,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,2.648531
+V,Transporte,Terrestre,Gas Licuado,2.477535
+V,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,9.5853546
+V,Industrial y Minero,"Todos, IM",Gas Natural,126.55189586
+V,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,27.0741987
+V,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,0.0
+V,Transporte,"Todos, T",Gas Natural,0.0
+V,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.008502
+VI,Transporte,Terrestre,Diesel,315.02726
+VI,Transporte,Terrestre,Gasolina Aviacion,0.0
+VI,Transporte,Terrestre,Gasolina Motor,264.71395
+VI,Transporte,Terrestre,Kerosene,14.249789999999999
+VI,Transporte,Terrestre,Kerosene Aviacion,0.0
+VI,Transporte,Terrestre,Petróleo Combustible,0.0
+VI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,126.67267
+VI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.11732
+VI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,3.3587800000000003
+VI,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,1.27472
+VI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,0.5390199999999999
+VI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,6.62333
+VI,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,14.249789999999999
+VI,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,18.816781
+VI,Industrial y Minero,"Todos, IM",Gas Licuado,44.361605999999995
+VI,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,50.270032
+VI,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,1.118969
+VI,Transporte,Terrestre,Gas Licuado,1.794971
+VI,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,0.5495007830399999
+VI,Industrial y Minero,"Todos, IM",Gas Natural,68.337829446
+VI,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,1.7399628206
+VI,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,0.0
+VI,Transporte,"Todos, T",Gas Natural,0.0
+VI,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.0
+VII,Transporte,Terrestre,Diesel,436.48258
+VII,Transporte,Terrestre,Gasolina Aviacion,0.0
+VII,Transporte,Terrestre,Gasolina Motor,304.94808
+VII,Transporte,Terrestre,Kerosene,11.59272
+VII,Transporte,Terrestre,Kerosene Aviacion,0.086
+VII,Transporte,Terrestre,Petróleo Combustible,0.0
+VII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,134.52005
+VII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.09346
+VII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,2.14331
+VII,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.9276
+VII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,0.7773
+VII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,38.57773
+VII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,11.59272
+VII,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,18.291358
+VII,Industrial y Minero,"Todos, IM",Gas Licuado,37.886513
+VII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,54.965185000000005
+VII,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,1.4836420000000001
+VII,Transporte,Terrestre,Gas Licuado,1.625818
+VII,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,0.18403109
+VII,Industrial y Minero,"Todos, IM",Gas Natural,3.2296152
+VII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,0.9069233299999999
+VII,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,0.0
+VII,Transporte,"Todos, T",Gas Natural,0.0
+VII,Energético: Consumo Propio,"Todos, CP",Gas Natural,1.9e-05
+VIII,Transporte,Terrestre,Diesel,523.3235900000001
+VIII,Transporte,Terrestre,Gasolina Aviacion,0.0
+VIII,Transporte,Terrestre,Gasolina Motor,431.40569
+VIII,Transporte,Terrestre,Kerosene,12.880880000000001
+VIII,Transporte,Terrestre,Kerosene Aviacion,0.0
+VIII,Transporte,Terrestre,Petróleo Combustible,0.0
+VIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,284.11921
+VIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.23834
+VIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,26.268510000000003
+VIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.69202
+VIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,7.27702
+VIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,192.14706
+VIII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,12.48209
+VIII,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,27.871530999999997
+VIII,Industrial y Minero,"Todos, IM",Gas Licuado,18.738337
+VIII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,51.466043000000006
+VIII,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,2.141031
+VIII,Transporte,Terrestre,Gas Licuado,1.5941450000000001
+VIII,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,10.067281000000001
+VIII,Industrial y Minero,"Todos, IM",Gas Natural,0.0
+VIII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,17.139003
+VIII,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,4.00650081
+VIII,Transporte,"Todos, T",Gas Natural,0.0
+VIII,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.027523
+IX,Transporte,Terrestre,Diesel,343.73722
+IX,Transporte,Terrestre,Gasolina Aviacion,0.0
+IX,Transporte,Terrestre,Gasolina Motor,272.75405
+IX,Transporte,Terrestre,Kerosene,8.735850000000001
+IX,Transporte,Terrestre,Kerosene Aviacion,0.0
+IX,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,73.2063
+IX,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.10593999999999999
+IX,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,10.24419
+IX,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.025
+IX,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,0.29183000000000003
+IX,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,8.70585
+IX,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,17.181479000000003
+IX,Industrial y Minero,"Todos, IM",Gas Licuado,10.327185
+IX,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,36.716004
+IX,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,1.149083
+IX,Transporte,Terrestre,Gas Licuado,0.760811
+IX,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,4.32070867
+IX,Industrial y Minero,"Todos, IM",Gas Natural,0.0
+IX,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,3.1693919999999998
+IX,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,1.59484742
+IX,Transporte,"Todos, T",Gas Natural,0.0
+IX,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.00541
+X,Transporte,Terrestre,Diesel,371.81453999999997
+X,Transporte,Terrestre,Gasolina Aviacion,0.0
+X,Transporte,Terrestre,Gasolina Motor,261.3778
+X,Transporte,Terrestre,Kerosene,12.281649999999999
+X,Transporte,Terrestre,Kerosene Aviacion,0.0
+X,Transporte,Terrestre,Petróleo Combustible,0.46043
+X,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,353.82221999999996
+X,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.07289
+X,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,12.02756
+X,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.24787
+X,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,5.27639
+X,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,18.86705
+X,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,12.281649999999999
+X,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,20.601067
+X,Industrial y Minero,"Todos, IM",Gas Licuado,24.303924
+X,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,31.410422
+X,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,2.878062
+X,Transporte,Terrestre,Gas Licuado,0.8843920000000001
+X,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,3.10876549521
+X,Industrial y Minero,"Todos, IM",Gas Natural,1.9877470000000002
+X,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,2.29515013315
+X,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,0.0
+X,Transporte,"Todos, T",Gas Natural,0.0
+X,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.0
+XI,Transporte,Terrestre,Diesel,47.451100000000004
+XI,Transporte,Terrestre,Gasolina Aviacion,0.0
+XI,Transporte,Terrestre,Gasolina Motor,30.749029999999998
+XI,Transporte,Terrestre,Kerosene,4.42351
+XI,Transporte,Terrestre,Kerosene Aviacion,0.0
+XI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,98.45605
+XI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.21573
+XI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,0.4215
+XI,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.0
+XI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,1.27331
+XI,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,4.42351
+XI,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,4.369033
+XI,Industrial y Minero,"Todos, IM",Gas Licuado,3.142186
+XI,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,4.8847059999999995
+XI,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,1.324417
+XI,Transporte,Terrestre,Gas Licuado,0.08091
+XII,Transporte,Terrestre,Diesel,59.51217
+XII,Transporte,Terrestre,Gasolina Aviacion,0.0
+XII,Transporte,Terrestre,Gasolina Motor,46.373129999999996
+XII,Transporte,Terrestre,Kerosene Aviacion,0.0
+XII,Transporte,Terrestre,Petróleo Combustible,0.0
+XII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,63.024660000000004
+XII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.00433
+XII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,2.67557
+XII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,3.8193699999999997
+XII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,11.374
+XII,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,2.402056
+XII,Industrial y Minero,"Todos, IM",Gas Licuado,0.539077
+XII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,0.477428
+XII,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,0.511629
+XII,Transporte,Terrestre,Gas Licuado,0.17523
+XII,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,78.285859
+XII,Industrial y Minero,"Todos, IM",Gas Natural,9.036481
+XII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,230.852936
+XII,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,0.0
+XII,Transporte,"Todos, T",Gas Natural,8.194301
+XII,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.401592
+XIII,Transporte,Terrestre,Diesel,1285.19271
+XIII,Transporte,Terrestre,Gasolina Aviacion,0.0
+XIII,Transporte,Terrestre,Gasolina Motor,1831.77499
+XIII,Transporte,Terrestre,Kerosene,71.78287999999999
+XIII,Transporte,Terrestre,Kerosene Aviacion,0.0
+XIII,Transporte,Terrestre,Petróleo Combustible,0.0
+XIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,635.68434
+XIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.40747000000000005
+XIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,28.35059
+XIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,10.85503
+XIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,125.9022
+XIII,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,3.5866
+XIII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,71.21047999999999
+XIII,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,166.10895499999998
+XIII,Industrial y Minero,"Todos, IM",Gas Licuado,70.31199100000002
+XIII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,267.52594799999997
+XIII,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,5.558084
+XIII,Transporte,Terrestre,Gas Licuado,12.094481
+XIII,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,20.044445758000002
+XIII,Industrial y Minero,"Todos, IM",Gas Natural,486.285879923
+XIII,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,329.26570087399995
+XIII,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,0.0
+XIII,Transporte,"Todos, T",Gas Natural,3.8770918892
+XIII,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.0
+XIV,Transporte,Terrestre,Diesel,146.18641
+XIV,Transporte,Terrestre,Gasolina Aviacion,0.0
+XIV,Transporte,Terrestre,Gasolina Motor,106.8704
+XIV,Transporte,Terrestre,Kerosene,3.8896699999999997
+XIV,Transporte,Terrestre,Kerosene Aviacion,0.0
+XIV,Transporte,Terrestre,Petróleo Combustible,0.0
+XIV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,71.04422
+XIV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.035
+XIV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,2.02569
+XIV,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.0
+XIV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,0.02052
+XIV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,60.95301
+XIV,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,3.8896699999999997
+XIV,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,7.357526999999999
+XIV,Industrial y Minero,"Todos, IM",Gas Licuado,9.039398
+XIV,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,14.948543
+XIV,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,1.00033
+XIV,Transporte,Terrestre,Gas Licuado,0.251117
+XV,Transporte,Terrestre,Diesel,60.03477
+XV,Transporte,Terrestre,Gasolina Aviacion,0.0
+XV,Transporte,Terrestre,Gasolina Motor,42.082589999999996
+XV,Transporte,Terrestre,Kerosene,0.028
+XV,Transporte,Terrestre,Kerosene Aviacion,0.0
+XV,Transporte,Terrestre,Petróleo Combustible,0.0
+XV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,58.33513
+XV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Aviacion,0.008
+XV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,2.72257
+XV,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.0
+XV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,5.77224
+XV,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,15.52374
+XV,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,0.028
+XV,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,6.626701
+XV,Industrial y Minero,"Todos, IM",Gas Licuado,6.840405
+XV,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,5.4118759999999995
+XV,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,0.211793
+XV,Transporte,Terrestre,Gas Licuado,0.14452500000000001
+XVI,Transporte,Terrestre,Diesel,177.89635
+XVI,Transporte,Terrestre,Gasolina Motor,129.01765999999998
+XVI,Transporte,Terrestre,Kerosene,4.44725
+XVI,Transporte,Terrestre,Kerosene Aviacion,0.05
+XVI,Transporte,Terrestre,Petróleo Combustible,0.0
+XVI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Diesel,43.09976
+XVI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Gasolina Motor,3.2239700000000004
+XVI,Industrial y Minero y Cmrcl pub Residencial,Industrial y minero y comercial,Kerosene,0.162
+XVI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Kerosene Aviacion,0.15096
+XVI,Industrial y Minero y Cmrcl pub Residencial,Industrial y Minero,Petróleo Combustible,51.218560000000004
+XVI,"Sector Cmrcl., Púb. Y Residencial",Residencial,Kerosene,4.29674
+XVI,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Licuado,6.928514
+XVI,Industrial y Minero,"Todos, IM",Gas Licuado,5.812579
+XVI,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Licuado,23.376583
+XVI,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Licuado,0.29724
+XVI,Transporte,Terrestre,Gas Licuado,0.393776
+XVI,"Sector Cmrcl., Púb. Y Residencial",Comercial,Gas Natural,1.2078410000000002
+XVI,Industrial y Minero,"Todos, IM",Gas Natural,0.0
+XVI,"Sector Cmrcl., Púb. Y Residencial",Residencial,Gas Natural,1.133788
+XVI,"Sector Cmrcl., Púb. Y Residencial",Público,Gas Natural,1.10281778
+XVI,Transporte,"Todos, T",Gas Natural,0.0
+XVI,Energético: Consumo Propio,"Todos, CP",Gas Natural,0.001831
